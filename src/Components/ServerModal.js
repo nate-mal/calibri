@@ -50,8 +50,8 @@ export default function ServerModal() {
             Server-side modal
           </Typography>
           <Typography id="server-modal-description" sx={{ pt: 2 }}>
-            <Button href="https://1drv.ms/u/s!AnfS8uRJtEMcgbAJizF9bf6ZEej9Vw?e=SZNrXl">
-              Go to drive (matlab test)
+            <Button href="https://1drv.ms/f/s!AnfS8uRJtEMcgfxOGpsgoNXB_ML9tA" >
+              Go to drive (optimizari test)
             </Button>
           </Typography>
         </Box>
